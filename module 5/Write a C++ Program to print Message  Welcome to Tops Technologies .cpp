@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-	cout<<endl<<"\tWelcome to Tops Technologies"<<endl;
+	cout<<endl<<"Welcome to Tops Technologies";
 	
 	return 0;
 }
